@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UnibookAdmin\Grades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UnibookAdmin\PageModifyGrades.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookAdmin\PageModifyParticipates.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookAdmin\PageModifyGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookAdmin\PageModifyLessons.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookAdmin\PageModifyStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookAdmin\AdminPageFirst.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookAdmin\PageModifyTeacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookStudent\PageGPA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookStudent\PageLessonTime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookStudent\PageGrades.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookStudent\PageGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookStudent\PageInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookStudent\PageParticipation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookStudent\PageSubjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookStudent\StudentMainPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookTeacher\PageGroups.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookTeacher\PageInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookTeacher\PageLessonTime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookTeacher\PageModifyGrades.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookTeacher\PageModifyParticipation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnibookTeacher\TeacherMainPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
